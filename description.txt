@@ -1,0 +1,43 @@
+Casper HTML Editor  3.0 basic description:
+
+     Please note: This program is by no means finnished. I have finnished the 
+ basics functions and tools and now I'll be fixing the errors, improving the 
+ code and etc.
+ The next version should be much more stable and not so recource-eating.
+ 
+			     !!! Important !!!
+ Since I have used one OCX please make sure you've regitred it before opening
+ this project. The OCX is a Folder TreeView by CCRP (http://www.mvps.org/ccrp/)
+ It's a free OCX under GPL Agreement so don't worry.
+
+
+Some of the tools included:
+
+ * Meta Tag Wizard 
+ * Table Wizard
+ * Frame Wizard
+ * Color Chooser
+ * Tag Chooser
+ * Image Map Tool
+ * Character Set Tool
+ * Document Weight Calculation
+ 
+Some of the Functions Included:
+
+ * Snippets Library for Java and HTML
+ * Complete Set of HTML 4.0 Standart tags
+ * Real Time tag Editor
+ * Real Time Preview
+ * Line Numbering in Gutter
+ * Find / Replace Dialog
+ * Syntax Coloring (as type / new line)
+ * Open Document From WWW
+ * Templates
+ * Text Files Conversion
+ * 10 x Width Word Wrap
+ * and more ....
+
+
+Above mentioned tools and functions are a subject to improve and/or change.
+Just so you know .......
+
